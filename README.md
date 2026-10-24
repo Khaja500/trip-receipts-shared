@@ -1,6 +1,7 @@
 # trip-receipts-shared
 
 **[Open the live work expenses ↗](https://khaja500.github.io/trip-receipts/#repo=Khaja500/trip-receipts-shared)**
+The read only token is: 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
 
 Work expenses only, written by the Trip Receipts iPhone app after every change. Personal and unanswered payments are never written here.
 
